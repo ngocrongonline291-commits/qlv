@@ -1,0 +1,6 @@
+{
+  "name": "Capital Tracker & Telegram Notifier",
+  "description": "Ứng dụng quản lý vốn thông minh với thống kê thắng thua theo từng mốc giờ và tích hợp gửi thông báo Telegram tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
